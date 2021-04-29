@@ -7,7 +7,8 @@
   - Desenho do fluxo de processos.
   - Desenho do modelo de dados.
   - Diagrama de arquitetura.
-- Ferramentas: 
-  - Bizagi Modeler.
+- Ferramentas:
+  - Word. 
   - Visio.
+  - Bizagi Modeler.
   - SQL Data Modeler.
