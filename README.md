@@ -1,3 +1,2 @@
-# Projeto SIColetaLixo
+# Projeto Branch Cópia
 
-Nome: Henrique Teixeira Conti e Gustavo Daza Rodrigues
